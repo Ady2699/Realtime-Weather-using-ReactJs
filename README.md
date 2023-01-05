@@ -39,3 +39,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## Learn More
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Screenshot
+
+![Screenshot (293)](https://user-images.githubusercontent.com/68245226/210855370-34f8f928-a891-4500-977c-3f16ac24c0b6.png)
